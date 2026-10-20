@@ -1,0 +1,52 @@
+[
+  {
+    "id": 101,
+    "subject": "Not getting any new cases",
+    "body": "My status is Available but nothing has been assigned to me for the last three hours."
+  },
+  {
+    "id": 102,
+    "subject": "Cases stuck and not distributed",
+    "body": "Our team queue shows unassigned cases and none are reaching me even though I am online."
+  },
+  {
+    "id": 103,
+    "subject": "Assignment stopped after update",
+    "body": "Since this morning's update I get no auto-assigned cases. I am marked Available."
+  },
+  {
+    "id": 104,
+    "subject": "Stop routing French cases to me",
+    "body": "I do not have French language skills. How do I stop receiving those cases?"
+  },
+  {
+    "id": 105,
+    "subject": "My shift hours are wrong",
+    "body": "I moved to Chicago and the portal still shows my old time zone and shift times."
+  },
+  {
+    "id": 106,
+    "subject": "Headset not recognised in portal",
+    "body": "The portal says no microphone found when I start a call."
+  },
+  {
+    "id": 107,
+    "subject": "Dashboard keeps showing a blank screen",
+    "body": "After I sign in the main dashboard stays empty and never loads."
+  },
+  {
+    "id": 108,
+    "subject": "Voice breaking up during calls",
+    "body": "Customers tell me my audio cuts in and out when I use the portal phone."
+  },
+  {
+    "id": 109,
+    "subject": "Need access to manager reports",
+    "body": "Can you give me access to the monthly manager reports folder?"
+  },
+  {
+    "id": 110,
+    "subject": "Change my reporting manager",
+    "body": "My team lead changed. Please update who I report to in the system."
+  }
+]

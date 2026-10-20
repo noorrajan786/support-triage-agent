@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "subject": "Auto Assignment Not Working",
+    "body": "I haven't received any auto assignments for the past 2 hours. I'm set as Available and my queue is empty."
+  },
+  {
+    "id": 2,
+    "subject": "Request to Block Cases from Specific Region",
+    "body": "I need to stop receiving APAC cases because I lack the language skills. Can I update my assignment rules?"
+  },
+  {
+    "id": 3,
+    "subject": "Time Zone Update Required",
+    "body": "I moved to the EST time zone but my hours still show PST."
+  },
+  {
+    "id": 4,
+    "subject": "Microphone Issues in Support Portal",
+    "body": "My microphone is not detected during calls in the portal."
+  },
+  {
+    "id": 5,
+    "subject": "Microphone and Auto Assignment",
+    "body": "The portal cannot hear me and I also stopped getting new cases."
+  },
+  {
+    "id": 6,
+    "subject": "Dashboard Not Loading",
+    "body": "The dashboard shows a blank page after login since this morning."
+  },
+  {
+    "id": 7,
+    "subject": "No cases since shift started",
+    "body": "Queue empty all morning although I am Available. Colleagues are getting cases."
+  },
+  {
+    "id": 8,
+    "subject": "Exclude Spanish-language cases",
+    "body": "Please stop sending me Spanish cases, I do not speak it."
+  },
+  {
+    "id": 9,
+    "subject": "Wrong working hours after move",
+    "body": "I relocated to London and my shift times are off by 8 hours."
+  },
+  {
+    "id": 10,
+    "subject": "Audio cuts out on calls",
+    "body": "People say my voice drops out in the portal softphone."
+  },
+  {
+    "id": 11,
+    "subject": "Dashboard error code 502",
+    "body": "Dashboard fails to load and shows 502 on every refresh."
+  },
+  {
+    "id": 12,
+    "subject": "Request for admin access to reports",
+    "body": "I need access to the manager reports folder for a quarterly review."
+  }
+]
